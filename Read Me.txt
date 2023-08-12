@@ -1,0 +1,8 @@
+Admin Login Details
+Email	: admin@gmail.com
+Password: password0101
+
+
+Database:
+Name: restaurant_ci
+file: DATABASE FILE/restaurant_ci.sql
